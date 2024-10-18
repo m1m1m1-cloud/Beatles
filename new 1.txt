@@ -1,0 +1,18 @@
+<HTML>
+  <HEAD>
+   <TITLE> BTS </TITLE>
+  </HEAD>
+  <BODY>
+  <p align=center><A href=https://ru.wikipedia.org/wiki/BTS> Википедия </А>
+  <p align=center> Главная | <a href= Info.html>Общая информация</a> 
+  <H1 align=center><EM>Добро пожаловать на сайт, <BR>посвященный лучшей
+группе BTS </EM></H1>
+  <HR align=center width=80% size=4 color=purple>
+  <P align=justify> Об этой группе написано столько столько, что вряд ли нам удалось бы добавить что-либо новое. На нашем
+сайте вы найдете <EM> историю создания группы, биографии участников, дискографию и фильмографию
+группы.
+  <P align=justify> Мы предлагаем вашему вниманию только <EM> достоверную информацию.
+  <P align=center>  <IMG src=фото.jpg width=50%>
+  <P align=center> <FONT face=Arial size=2 > &copy; Все права защищены. Оношко Марина. 2024 год. </FONT></P>
+  </BODY>
+</HTML>
